@@ -1,5 +1,5 @@
 # AttnMove
-This is the code for submission #9808 in AAAI2020 
+This is the code for submission #8692 in AAAI2020 
 
 
 ## Datasets

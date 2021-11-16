@@ -18,7 +18,7 @@ Each line the the processed trajectory consists of UID, Time, and 6 traces:
 - H3:9 26 9 9 26 1177 26 9 9 * 9 9 9 9 9 9 9 26 9 9 9 26 2315 9 4237 9 9 26 26 9 26 26 26 26 26 26 26 26 26 26 * * 26 * 26 * 26 26  
 - D1: * * 9 9 * 9 871 6248 * * * * 6248 641 3802 3562 4573 9 * * * * * * * * * * 871 116 116 * * * * * * * * * * * * * 9 26 * *  
 - D2: * * 9 9 * 9 871 6248 * * * * 6248 641 3802 3562 4573 9 * * * * * * * * * * 871 116 116 * * * * * * * * * * * * * 9 26 * *  
-- Mask: * * 9 <m> * 9 <m> <m> * * * * 6248 <m> 3802 <m> <m> 9 * * * * * * * * * * 871 <m> <m> * * * * * * * * * * * * * <m> <m> * * 
+- Mask: * * 9 \<m> * 9 <m> <m> * * * * 6248 <m> 3802 <m> <m> 9 * * * * * * * * * * 871 <m> <m> * * * * * * * * * * * * * <m> <m> * * 
   
 Each trace is one day's trajectory: a sequence of 48 locations (one point per half hour), with * denoting the records are missing from raw data. 
   

@@ -3,5 +3,6 @@
 - region_beijing_countfilter10.json: region boundary.
 
 The first two files can be generaged by the boundary file, please refer to the show_region.py.
+Or download from [data](https://drive.google.com/drive/folders/11AwAIarISpJpHh9wIqJT6NJ7s3DzUYnH?usp=sharing)
 
 
